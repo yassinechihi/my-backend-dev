@@ -1,2 +1,2 @@
-# my-backend-dev
-python codebase repo
+# This dev python repo is for backend developers.
+The infra was last modified by: Yassine Chihi
